@@ -37,7 +37,11 @@ Plugin 'Shougo/neocomplete'
 Plugin 'airblade/vim-gitgutter'
 Plugin 'Shougo/vimproc'
 Plugin 'Shougo/unite.vim'
-Plugin 'm2mdas/phpcomplete-extended'''''''
+Plugin 'm2mdas/phpcomplete-extended'
+Plugin 'Shougo/neosnippet'
+Plugin 'scrooloose/nerdtree'
+Plugin 'ConradIrwin/vim-bracketed-paste'
+
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required

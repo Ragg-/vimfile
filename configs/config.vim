@@ -33,3 +33,6 @@ set smartindent   	" 改行時に入力された行の末尾に合わせて次�
 
 " コマンドラインモードでTABキーによるファイル名補完を有効にする
 set wildmenu wildmode=list:longest,full
+
+" スニペットの設定
+let g:neosnippet#snippets_directory = ['~/Enviroment/vim/snippets/']
